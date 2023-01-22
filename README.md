@@ -1,4 +1,4 @@
-# Introduction-java-chapter-1
+# Introduction-java
 java入門用のgithub
 
 ## 全体でやること
