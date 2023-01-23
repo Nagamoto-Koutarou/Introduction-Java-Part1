@@ -20,3 +20,6 @@ java入門用のgithub
 - 分岐は、if文かswitch文を使用
 - 繰り返しは、while文かfor文を使用
 - breakとcontinueの使い方を理解する
+
+### chapter-4でやること
+- 配列の基礎・準備・利用・参照をやる
